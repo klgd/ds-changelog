@@ -356,3 +356,10 @@
 - quay.io/jetstack/cert-manager-controller:master-7441
 - quay.io/jetstack/cert-manager-controller:master-7362
 - quay.io/jetstack/cert-manager-controller:master-7407
+### 2019-03-02 21:10:51 Update:
+
+- gcr.io/google-containers/defaultbackend:1.4
+- gcr.io/google-containers/defaultbackend:1.2
+- gcr.io/google-containers/defaultbackend:1.3
+- gcr.io/google-containers/defaultbackend:1.0
+- gcr.io/google-containers/defaultbackend:1.1
