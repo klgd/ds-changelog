@@ -1,0 +1,33 @@
+### 2019-03-08 20:59:40 Update:
+
+- registry.gitlab.com/gitlab-org/build/cng/gitaly:date-version
+- registry.gitlab.com/gitlab-org/build/cng/gitaly:cache-buster
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:fix-nokogiri
+- registry.gitlab.com/gitlab-org/build/cng/gitaly:bump-ruby-2-5-3
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:gitlab-path-srv
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.5.0-rc3
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.5.0-rc2
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:latest
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:master
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:dj-test-any-user
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:mailroom-image
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:move-to-debian-slim
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.5.0-rc4
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.5.0-rc6
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.5.0-rc7
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.5.0-rc8
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:gcs-support
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.5.0-rc9
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.5.0.pre
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.5.1
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.5.10
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.5.2
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.7.6
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.8.0-rc1
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.8.0-rc2
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.8.0
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.8.0-rc4
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.8.0-rc6
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.8.0-rc5
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.8.0-rc3
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.5.3
