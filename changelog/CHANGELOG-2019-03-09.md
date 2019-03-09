@@ -2,3 +2,41 @@
 
 - registry.gitlab.com/gitlab-org/build/cng/gitlab-task-runner-ce:v11.9.0-rc4
 - registry.gitlab.com/gitlab-org/build/cng/gitlab-unicorn-ce:v11.9.0-rc4
+### 2019-03-09 20:54:55 Update:
+
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v11.9.0-rc4
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:seperate-ee-ce
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:gitlab-path-srv
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:set-build-token-CN
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:release-chart
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.9.0-rc4
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:dj-test-any-user
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:gcs-support
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:pgsql-from-source
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:revision-file
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:revert-f0e5a364
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:skip-push-on-com
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:test-go-id
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:test-upgrade-python
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:trigger-cng-image
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11-6-10
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:update-image-build
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:update-revision
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v10.8.0
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:upgrade-postgresql
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11-7-3
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11-7-2
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11-7-1
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.0.0
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11-7-4
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.0.0-rc10
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.0.0-rc11
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.0.0-rc12
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.0.0-rc4
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.0.0-rc14
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.0.0-rc7
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.0.0-rc13
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.0.0-rc3
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.0.0-rc5
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.0.0-rc6
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.0.0-rc2
