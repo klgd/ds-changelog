@@ -2,3 +2,40 @@
 
 - registry.gitlab.com/gitlab-org/build/cng/gitlab-task-runner-ce:v11.9.0-rc5
 - registry.gitlab.com/gitlab-org/build/cng/gitlab-unicorn-ce:v11.9.0-rc5
+### 2019-03-13 17:31:32 Update:
+
+- registry.gitlab.com/gitlab-org/build/cng/gitaly:test-utf-8
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.2.0-rc6
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v11.9.0-rc5
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v11.9.0-rc5
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.2.0-rc5
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.2.3
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.2.0-rc3
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.0.0-rc7
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.2.5
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.2.7
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.2.4
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.2.6
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.2.8
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.3.0
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.3.0-rc1
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.3.0-rc2
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.3.0-rc10
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.3.0-rc3
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.3.0-rc4
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.3.0-rc5
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.3.0-rc6
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.3.0-rc7
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.3.0-rc8
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.4.12
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.4.14
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.4.3
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.4.2
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.5.0-rc1
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.4.7
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.4.6
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.5.0
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.4.4
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.4.9
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.4.5
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.4.8
