@@ -43,3 +43,32 @@
 - registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.6.0-rc8
 - registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.6.4
 - registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.6.0-rc6
+### 2019-03-15 12:33:40 Update:
+
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.6.0-rc1
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.6.0-rc8
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.6.3
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.6.0-rc6
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.6.4
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.6.0-rc4
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.6.2
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.6.0-rc3
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:add-exiftool
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.6.0-rc5
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.6.5
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.9.0-rc1
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.6.8
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.8.0-rc7
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.8.0-rc6
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.8.0-rc9
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.8.0-rc8
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.8.1
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.8.2
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.8.0.pre
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.9.0-rc6
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.9.0-rc2
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.9.0-rc4
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.9.0-rc5
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.9.0-rc3
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.9.0-rc7
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v11.9.0.pre
