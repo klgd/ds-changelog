@@ -108,3 +108,16 @@
 - quay.io/jetstack/cert-manager-webhook:27e686b
 - quay.io/jetstack/cert-manager-webhook:3156caf
 - quay.io/jetstack/cert-manager-webhook:fc78dce
+### 2019-03-15 16:42:53 Update:
+
+- quay.io/external_storage/nfs-client-provisioner:latest
+- quay.io/external_storage/nfs-client-provisioner:v2.1.1-k8s1.10
+- quay.io/external_storage/nfs-client-provisioner:v3.1.0-k8s1.11
+- quay.io/external_storage/nfs-client-provisioner:v3.0.2-k8s1.11
+- quay.io/external_storage/nfs-client-provisioner:v3.0.0-k8s1.11
+- quay.io/external_storage/nfs-client-provisioner:v2.0.1
+- quay.io/external_storage/nfs-client-provisioner:v2.1.0-k8s1.10
+- quay.io/external_storage/nfs-client-provisioner:v3.0.1-k8s1.11
+- quay.io/external_storage/nfs-client-provisioner:v2.1.2-k8s1.11
+- quay.io/external_storage/nfs-client-provisioner:v2.0.0
+- quay.io/external_storage/nfs-client-provisioner:v1
