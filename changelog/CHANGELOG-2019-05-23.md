@@ -16,3 +16,7 @@
 - registry.gitlab.com/gitlab-org/build/cng/gitaly:v11-11-0
 - registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:master
 - registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:latest
+### 2019-05-23 17:45:40 Update:
+
+- quay.io/jetstack/cert-manager-webhook:52ce9593
+- quay.io/jetstack/cert-manager-controller:52ce9593
