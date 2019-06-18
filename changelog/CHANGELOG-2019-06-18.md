@@ -1,0 +1,22 @@
+### 2019-06-18 17:47:59 Update:
+
+- quay.io/jetstack/cert-manager-webhook:fd32827b
+- quay.io/jetstack/cert-manager-webhook:c475eb63
+- quay.io/jetstack/cert-manager-webhook:3c265d11
+- quay.io/jetstack/cert-manager-webhook:0c5f4fec
+- quay.io/jetstack/cert-manager-webhook:043a88cd
+- quay.io/jetstack/cert-manager-webhook:48cd58b2
+- quay.io/jetstack/cert-manager-webhook:a0e1b864
+- quay.io/jetstack/cert-manager-webhook:07c34114
+- quay.io/jetstack/cert-manager-webhook:9c16efdb
+- quay.io/jetstack/cert-manager-webhook:a0e4e46b
+- quay.io/jetstack/cert-manager-controller:fd32827b
+- quay.io/jetstack/cert-manager-controller:c475eb63
+- quay.io/jetstack/cert-manager-controller:3c265d11
+- quay.io/jetstack/cert-manager-controller:0c5f4fec
+- quay.io/jetstack/cert-manager-controller:043a88cd
+- quay.io/jetstack/cert-manager-controller:07c34114
+- quay.io/jetstack/cert-manager-controller:9c16efdb
+- quay.io/jetstack/cert-manager-controller:48cd58b2
+- quay.io/jetstack/cert-manager-controller:a0e1b864
+- quay.io/jetstack/cert-manager-controller:a0e4e46b
