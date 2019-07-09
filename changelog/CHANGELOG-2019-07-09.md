@@ -6,3 +6,9 @@
 - registry.gitlab.com/gitlab-org/build/cng/kubectl:kubectl-1-12-update
 - registry.gitlab.com/gitlab-org/build/cng/gitlab-task-runner-ce:kubectl-1-12-update
 - registry.gitlab.com/gitlab-org/build/cng/gitlab-unicorn-ce:kubectl-1-12-update
+### 2019-07-09 18:04:21 Update:
+
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:kubectl-1-12-update
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:kubectl-1-12-update
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:kubectl-1-12-update
+- registry.gitlab.com/gitlab-org/build/cng/gitaly:kubectl-1-12-update
