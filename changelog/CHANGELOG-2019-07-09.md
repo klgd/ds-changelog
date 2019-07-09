@@ -15,3 +15,23 @@
 ### 2019-07-09 18:04:49 Update:
 
 - quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.25.0
+### 2019-07-09 18:05:28 Update:
+
+- quay.io/jetstack/cert-manager-controller:57d77289
+- quay.io/jetstack/cert-manager-controller:0bf85e72
+- quay.io/jetstack/cert-manager-controller:v0.9.0-alpha.0
+- quay.io/jetstack/cert-manager-controller:a14cd359
+- quay.io/jetstack/cert-manager-controller:458c7193
+- quay.io/jetstack/cert-manager-controller:c6cd522a
+- quay.io/jetstack/cert-manager-controller:caa130b7
+- quay.io/jetstack/cert-manager-controller:5d1db973
+- quay.io/jetstack/cert-manager-controller:1b9b83a4
+- quay.io/jetstack/cert-manager-webhook:0bf85e72
+- quay.io/jetstack/cert-manager-webhook:57d77289
+- quay.io/jetstack/cert-manager-webhook:5d1db973
+- quay.io/jetstack/cert-manager-webhook:a14cd359
+- quay.io/jetstack/cert-manager-webhook:v0.9.0-alpha.0
+- quay.io/jetstack/cert-manager-webhook:1b9b83a4
+- quay.io/jetstack/cert-manager-webhook:458c7193
+- quay.io/jetstack/cert-manager-webhook:caa130b7
+- quay.io/jetstack/cert-manager-webhook:c6cd522a
