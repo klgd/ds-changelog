@@ -12,3 +12,7 @@
 - registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:tag-kubectl-stable
 - registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:tag-kubectl-stable
 - registry.gitlab.com/gitlab-org/build/cng/gitaly:tag-kubectl-stable
+### 2019-07-11 18:06:13 Update:
+
+- quay.io/jetstack/cert-manager-webhook:007bc1f8
+- quay.io/jetstack/cert-manager-controller:007bc1f8
