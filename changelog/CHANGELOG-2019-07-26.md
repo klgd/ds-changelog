@@ -16,3 +16,9 @@
 - registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:geo-migrations
 - registry.gitlab.com/gitlab-org/build/cng/gitaly:12-2-stable
 - registry.gitlab.com/gitlab-org/build/cng/gitaly:12-2-stable-ee
+### 2019-07-26 18:17:28 Update:
+
+- quay.io/jetstack/cert-manager-webhook:4dc46d68
+- quay.io/jetstack/cert-manager-controller:4dc46d68
+- quay.io/jetstack/cert-manager-webhook:2d1c2137
+- quay.io/jetstack/cert-manager-controller:2d1c2137
