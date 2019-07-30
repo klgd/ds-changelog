@@ -32,3 +32,7 @@
 - registry.gitlab.com/gitlab-org/build/cng/gitaly:v12-0-4-ee
 - registry.gitlab.com/gitlab-org/build/cng/gitaly:v12-1-2
 - registry.gitlab.com/gitlab-org/build/cng/gitaly:v12-1-2-ee
+### 2019-07-30 18:30:01 Update:
+
+- quay.io/jetstack/cert-manager-webhook:222d46ab
+- quay.io/jetstack/cert-manager-controller:222d46ab
