@@ -28,3 +28,7 @@
 - registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v12-1-3
 - registry.gitlab.com/gitlab-org/build/cng/gitlab-rails-ce:v12.1.3
 - registry.gitlab.com/gitlab-org/build/cng/gitaly:v12-1-3-ee
+### 2019-07-31 18:30:20 Update:
+
+- quay.io/jetstack/cert-manager-webhook:7975c924
+- quay.io/jetstack/cert-manager-controller:7975c924
