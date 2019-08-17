@@ -10,3 +10,13 @@
 - registry.gitlab.com/gitlab-org/build/cng/gitlab-unicorn-ce:test-gitaly
 - registry.gitlab.com/gitlab-org/build/cng/gitlab-task-runner-ce:ak-docker-cache
 - registry.gitlab.com/gitlab-org/build/cng/gitlab-unicorn-ce:ak-docker-cache
+### 2019-08-17 18:33:01 Update:
+
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:ak-docker-cache
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:test-gitaly
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:test-gitaly
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:test-gitaly
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:ak-docker-cache
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:ak-docker-cache
+- registry.gitlab.com/gitlab-org/build/cng/gitaly:test-gitaly
+- registry.gitlab.com/gitlab-org/build/cng/gitaly:ak-docker-cache
