@@ -20,3 +20,7 @@
 - registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:ak-docker-cache
 - registry.gitlab.com/gitlab-org/build/cng/gitaly:test-gitaly
 - registry.gitlab.com/gitlab-org/build/cng/gitaly:ak-docker-cache
+### 2019-08-17 18:33:20 Update:
+
+- quay.io/jetstack/cert-manager-webhook:dc670926e
+- quay.io/jetstack/cert-manager-controller:dc670926e
