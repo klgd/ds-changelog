@@ -35,3 +35,30 @@
 - registry.gitlab.com/gitlab-org/build/cng/gitlab-task-runner-ce:v12.2.0-rc32
 - registry.gitlab.com/gitlab-org/build/cng/gitlab-task-runner-ce:v12-2-0-rc32
 - registry.gitlab.com/gitlab-org/build/cng/gitlab-task-runner-ce:v12.2.0-rc31
+### 2019-08-21 18:51:57 Update:
+
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:fix-shell-gcc
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:shell-gcc-build
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:sh-match-gitconfig
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:fix-shell-gcc
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v12-2-0-rc31
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v12.2.0-rc31
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v12-2-0-rc32
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:sh-match-gitconfig
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v12.2.0-rc32
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:shell-gcc-build
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:shell-gcc-build
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:sh-match-gitconfig
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:fix-shell-gcc
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:v12-2-0-rc31
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:v12-2-0-rc31-ee
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:v12-2-0-rc32
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:v12-2-0-rc32-ee
+- registry.gitlab.com/gitlab-org/build/cng/gitaly:sh-match-gitconfig
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v12.2.0-rc32
+- registry.gitlab.com/gitlab-org/build/cng/gitaly:fix-shell-gcc
+- registry.gitlab.com/gitlab-org/build/cng/gitaly:shell-gcc-build
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v12.2.0-rc31
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v12-2-0-rc31
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v12-2-0-rc32
+- registry.gitlab.com/gitlab-org/build/cng/gitaly:v12-2-0-rc31
