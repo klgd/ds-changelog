@@ -1,0 +1,37 @@
+### 2019-08-21 18:27:05 Update:
+
+- registry.gitlab.com/gitlab-org/build/cng/kubectl:v12-2-0-rc32-ee
+- registry.gitlab.com/gitlab-org/build/cng/kubectl:v12-2-0-rc31
+- registry.gitlab.com/gitlab-org/build/cng/cfssl-self-sign:fix-shell-gcc
+- registry.gitlab.com/gitlab-org/build/cng/kubectl:v12-2-0-rc31-ee
+- registry.gitlab.com/gitlab-org/build/cng/kubectl:v12-2-0-rc32
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-task-runner-ce:fix-shell-gcc
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-unicorn-ce:fix-shell-gcc
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-task-runner-ce:sh-match-gitconfig
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-task-runner-ce:shell-gcc-build
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-unicorn-ce:shell-gcc-build
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-unicorn-ce:sh-match-gitconfig
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-unicorn-ce:v12-2-0-rc31
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-task-runner-ce:v12-2-0-rc31
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-unicorn-ce:v12.2.0-rc32
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-unicorn-ce:v12-2-0-rc32
+- registry.gitlab.com/gitlab-org/build/cng/cfssl-self-sign:sh-match-gitconfig
+- registry.gitlab.com/gitlab-org/build/cng/cfssl-self-sign:v12-2-0-rc32
+- registry.gitlab.com/gitlab-org/build/cng/cfssl-self-sign:v12-2-0-rc31
+- registry.gitlab.com/gitlab-org/build/cng/cfssl-self-sign:v12-2-0-rc32-ee
+- registry.gitlab.com/gitlab-org/build/cng/cfssl-self-sign:v12-2-0-rc31-ee
+- registry.gitlab.com/gitlab-org/build/cng/cfssl-self-sign:shell-gcc-build
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-unicorn-ce:v12.2.0-rc31
+- registry.gitlab.com/gitlab-org/build/cng/alpine-certificates:sh-match-gitconfig
+- registry.gitlab.com/gitlab-org/build/cng/alpine-certificates:shell-gcc-build
+- registry.gitlab.com/gitlab-org/build/cng/alpine-certificates:v12-2-0-rc31
+- registry.gitlab.com/gitlab-org/build/cng/alpine-certificates:v12-2-0-rc31-ee
+- registry.gitlab.com/gitlab-org/build/cng/alpine-certificates:fix-shell-gcc
+- registry.gitlab.com/gitlab-org/build/cng/alpine-certificates:v12-2-0-rc32
+- registry.gitlab.com/gitlab-org/build/cng/alpine-certificates:v12-2-0-rc32-ee
+- registry.gitlab.com/gitlab-org/build/cng/kubectl:fix-shell-gcc
+- registry.gitlab.com/gitlab-org/build/cng/kubectl:sh-match-gitconfig
+- registry.gitlab.com/gitlab-org/build/cng/kubectl:shell-gcc-build
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-task-runner-ce:v12.2.0-rc32
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-task-runner-ce:v12-2-0-rc32
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-task-runner-ce:v12.2.0-rc31
