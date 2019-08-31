@@ -1,0 +1,23 @@
+### 2019-08-31 18:31:56 Update:
+
+- registry.gitlab.com/gitlab-org/build/cng/alpine-certificates:v12-2-3-ee
+- registry.gitlab.com/gitlab-org/build/cng/alpine-certificates:v12-1-8
+- registry.gitlab.com/gitlab-org/build/cng/alpine-certificates:v12-1-8-ee
+- registry.gitlab.com/gitlab-org/build/cng/alpine-certificates:v12-2-3
+- registry.gitlab.com/gitlab-org/build/cng/cfssl-self-sign:v12-1-8-ee
+- registry.gitlab.com/gitlab-org/build/cng/cfssl-self-sign:v12-1-8
+- registry.gitlab.com/gitlab-org/build/cng/cfssl-self-sign:v12-2-3-ee
+- registry.gitlab.com/gitlab-org/build/cng/cfssl-self-sign:v12-2-3
+- registry.gitlab.com/gitlab-org/build/cng/kubectl:v12-1-8
+- registry.gitlab.com/gitlab-org/build/cng/kubectl:v12-2-3-ee
+- registry.gitlab.com/gitlab-org/build/cng/kubectl:v12-2-3
+- registry.gitlab.com/gitlab-org/build/cng/kubectl:v12-1-8-ee
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-task-runner-ce:v12-0-8
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-task-runner-ce:v12-1-8
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-unicorn-ce:v12-0-8
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-unicorn-ce:v12-1-8
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-unicorn-ce:v12.0.8
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-task-runner-ce:v12-2-3
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-unicorn-ce:v12-2-3
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-unicorn-ce:v12.2.3
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-unicorn-ce:v12.1.8
