@@ -1,0 +1,31 @@
+### 2019-09-01 18:57:23 Update:
+
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v12-0-8
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v12-2-3
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v12.1.8
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:v12-0-7-ee
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v12-1-8
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:v12-0-7
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v12.2.3
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:v12-1-8
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:v12-1-8-ee
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v12.0.8
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:v12-2-3-ee
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:v12-2-3
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v12-2-3
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v12-0-8
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v12-1-8
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v12.1.8
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v12.0.8
+- registry.gitlab.com/gitlab-org/build/cng/gitaly:v12-0-7
+- registry.gitlab.com/gitlab-org/build/cng/gitaly:v1.47.3
+- registry.gitlab.com/gitlab-org/build/cng/gitaly:v12-1-8
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:v12.2.3
+- registry.gitlab.com/gitlab-org/build/cng/gitaly:v1.53.3
+- registry.gitlab.com/gitlab-org/build/cng/gitaly:v1.59.2
+- registry.gitlab.com/gitlab-org/build/cng/gitaly:v12-0-8-ee
+- registry.gitlab.com/gitlab-org/build/cng/gitaly:v12-1-8-ee
+- registry.gitlab.com/gitlab-org/build/cng/gitaly:v12-0-7-ee
+- registry.gitlab.com/gitlab-org/build/cng/gitaly:v12-2-3-ee
+- registry.gitlab.com/gitlab-org/build/cng/gitaly:v12-0-8
+- registry.gitlab.com/gitlab-org/build/cng/gitaly:v12-2-3
