@@ -1,0 +1,21 @@
+### 2019-10-05 18:47:17 Update:
+
+- registry.gitlab.com/gitlab-org/build/cng/cfssl-self-sign:default-gei-version
+- registry.gitlab.com/gitlab-org/build/cng/cfssl-self-sign:fix-rm-artifacts
+- registry.gitlab.com/gitlab-org/build/cng/cfssl-self-sign:no-pipeline-com-tag
+- registry.gitlab.com/gitlab-org/build/cng/alpine-certificates:no-pipeline-com-tag
+- registry.gitlab.com/gitlab-org/build/cng/alpine-certificates:default-gei-version
+- registry.gitlab.com/gitlab-org/build/cng/alpine-certificates:fix-rm-artifacts
+- registry.gitlab.com/gitlab-org/build/cng/kubectl:default-gei-version
+- registry.gitlab.com/gitlab-org/build/cng/kubectl:no-pipeline-com-tag
+- registry.gitlab.com/gitlab-org/build/cng/kubectl:fix-rm-artifacts
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-unicorn-ce:default-gei-version
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-unicorn-ce:no-pipeline-com-tag
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-unicorn-ce:fix-rm-artifacts
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-unicorn-ce:dont-exit-on-tag
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-task-runner-ce:fix-rm-artifacts
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-task-runner-ce:default-gei-version
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-task-runner-ce:no-pipeline-com-tag
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-unicorn-ce:ubi-demo
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-unicorn-ce:v12-3-4
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-task-runner-ce:v12-3-4
