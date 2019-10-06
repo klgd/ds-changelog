@@ -1,0 +1,36 @@
+### 2019-10-06 19:12:20 Update:
+
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:default-gei-version
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:12-3-stable
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:443-ubi-images-ubi8
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:443-ubi-images-ubi
+- registry.gitlab.com/gitlab-org/build/cng/gitaly:443-ubi-images-ubi8
+- registry.gitlab.com/gitlab-org/build/cng/gitaly:443-ubi-images-ubi
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:dont-exit-on-tag
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:balu-test
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:no-pipeline-com-tag
+- registry.gitlab.com/gitlab-org/build/cng/gitaly:12-3-stable
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:12-3-stable
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:fix-rm-artifacts
+- registry.gitlab.com/gitlab-org/build/cng/gitaly:12-3-stable-ee
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:ubi-demo
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:balu-test
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:default-gei-version
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-shell:dont-exit-on-tag
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:default-gei-version
+- registry.gitlab.com/gitlab-org/build/cng/gitaly:default-gei-version
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:dont-exit-on-tag
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v12-0-9
+- registry.gitlab.com/gitlab-org/build/cng/gitaly:dont-exit-on-tag
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v12-1-9
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v12-2-5
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:fix-rm-artifacts
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v12-3-0
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v12-3-1
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v12-3-0-rc42
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v12-3-4
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v12-3-3
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:no-pipeline-com-tag
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v12.1.11
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-workhorse-ce:v12.0.9
+- registry.gitlab.com/gitlab-org/build/cng/gitlab-sidekiq-ce:ubi-demo
